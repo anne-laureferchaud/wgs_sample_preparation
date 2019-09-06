@@ -1,8 +1,8 @@
 #!/usr/bin/env python
-"""Extract useful coverage information from beagle file
+"""Extract useful coverage information from coverage file from samtools depth on a bamfilelist
 
 Usage:
-    <program> input_beagle output_stub window_size window_move [position_file]
+    <program> input_coverage output_stub window_size window_move [position_file]
 """
 
 # Modules
